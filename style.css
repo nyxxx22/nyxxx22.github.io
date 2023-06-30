@@ -101,6 +101,7 @@ a:hover {
 }
 .block-diff {
   display: block;
+  justify-content: space-evenly;
   mix-blend-mode: difference;
 }
 
